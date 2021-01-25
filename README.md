@@ -1,4 +1,4 @@
-{% include navigation.html}
+{% include navigation.html %}
 # Memoir
 
 Here is the list of the blogs I have written so far
